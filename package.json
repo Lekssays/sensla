@@ -1,0 +1,20 @@
+{
+  "name": "chain",
+  "version": "1.0.0",
+  "description": "A Simple Blockchain Built in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "data",
+    "structures"
+  ],
+  "author": "Ahmed Lekssays",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "npm": "^6.1.0"
+  }
+}
